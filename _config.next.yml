@@ -1,0 +1,26 @@
+cache:
+  enable: true
+minify: true
+
+scheme: Gemini
+
+menu:
+  home: / || fa fa-home
+  tags: /tags/ || fa fa-tags
+  archives: /archives/ || fa fa-archive
+
+footer:
+  since: 2023
+
+symbols_count_time:
+  item_text_total: true
+
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 1
+  unescape: false
+  preload: false
+
+custom_file_path:
+  style: source/_data/styles.styl
