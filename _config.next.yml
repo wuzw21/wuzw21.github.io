@@ -7,6 +7,7 @@ scheme: Gemini
 menu:
   home: / || fa fa-home
   tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
 
 footer:
