@@ -6,9 +6,12 @@ scheme: Gemini
 
 menu:
   home: / || fa fa-home
+  about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
+  schedule: /schedule/ || fa fa-calendar
+  photos: /photos/ || fa fa-camera-retro
 
 footer:
   since: 2023
