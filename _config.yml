@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -118,3 +118,7 @@ search:
   field: post
   content: true
   format: html
+
+marked:
+  prependRoot: true
+  postAsset: true
