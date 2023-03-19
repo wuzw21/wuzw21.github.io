@@ -6,19 +6,15 @@ scheme: Gemini
 
 menu:
   home: / || fa fa-home
-  about: /about/ || fa fa-heart
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-  schedule: /schedule/ || fa fa-list
-  photos: /photos/ || fa fa-camera-retro
 
 footer:
   since: 2023
 
 symbols_count_time:
   item_text_total: true
-  item_text_post: true
 
 local_search:
   enable: true
