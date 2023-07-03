@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   hexo:
     specifier: ^6.3.0
@@ -32,8 +36,8 @@ dependencies:
     specifier: ^3.0.0
     version: 3.0.0
   hexo-theme-next:
-    specifier: ^8.15.1
-    version: 8.15.1
+    specifier: ^8.17.1
+    version: 8.17.1
   hexo-word-counter:
     specifier: ^0.1.0
     version: 0.1.0
@@ -741,8 +745,8 @@ packages:
       - supports-color
     dev: false
 
-  /hexo-theme-next@8.15.1:
-    resolution: {integrity: sha512-ZM+dPx6mkFvmk8vp+dsvI+Cu1LE8XZW3PQjirmc+xd7CSUFby+4rYZ9puFVQlc5dvCM/lTfzp/WJu74JcC3Q2w==}
+  /hexo-theme-next@8.17.1:
+    resolution: {integrity: sha512-jtZITm8l/3EfNamUygVGOsyJDMl2JqLfO4xOOz4Cj2I588H4YxSb/Fgc0PnNvD7jsI9GlpNr8EKbbf3tj0FRTw==}
     dev: false
 
   /hexo-util@2.7.0:
